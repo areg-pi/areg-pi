@@ -1,4 +1,4 @@
-## Hi there, I'm about to be a Mechatronics Engineer :jack_o_lantern:
+### Hi there, I'm about to be a Mechatronics Engineer :jack_o_lantern:
 
 <!--
 **areg-pi/areg-pi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
