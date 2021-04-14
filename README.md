@@ -14,7 +14,11 @@ I'm about to finish school and also taking courses about programming on differen
 * _Robotics and augmented reality_
 * _Design_
 
-You can also find me in [LinkedIn]
+You can also find me in
+
+[<img align=”left” alt=”jjames- | LinkedIn” width=”22px” src=”https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[linkedin]: https://linkedin.com/in/jjames-
+
 I rarely make random tech videos for my [YT channel](https://www.youtube.com/channel/UCtYj0Ynyf3R3MOAxOC6Mzxg)
 
 One last thing, just because they're always useful for memes and stuff, I can use:
