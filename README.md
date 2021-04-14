@@ -1,4 +1,4 @@
-# Hi there, I'm about to be a _**Mechatronics Engineer**_ :jack_o_lantern:
+# Hi there, I'm about to be a _Mechatronics Engineer_ :jack_o_lantern:
 
 I'm about to finish school and also taking courses about programming on different websites. I've used several languages such as:
 * 🤖 Python (with frameworks/ libraries: Pandas, Scikit, Dash, Scipy, OpenCV and Tkinter)
@@ -7,6 +7,7 @@ I'm about to finish school and also taking courses about programming on differen
 * 🔐Basics of SQL, C++ and Java
 * :chart_with_upwards_trend: MATLAB for numerical and signal analysis
 
+## Interests
 🔭 I’m currently working on my future interests, which are:
 * _AI and Machine Learning_
 * _Data science_
