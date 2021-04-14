@@ -1,5 +1,11 @@
 # Hi there, I'm about to be a Mechatronics Engineer :jack_o_lantern:
 
+I'm about to finish school and also taking courses about programming on different websites. I've used different languages such as:
+* Python and embedded C for projects
+* HTML, CSS and Javascript for web
+* Basics of SQL, C++ and Java
+* MATLAB for sumerical and signal analysis
+
 <!--
 **areg-pi/areg-pi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
