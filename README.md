@@ -1,11 +1,11 @@
 # Hi there, I'm about to be a Mechatronics Engineer :jack_o_lantern:
 
 I'm about to finish school and also taking courses about programming on different websites. I've used several languages such as:
-🤖 * Python (with frameworks/ libraries: Pandas, Scikit, Dash, Scipy, OpenCV and Tkinter)
-:electron: * Embedded C (Arduino and Raspberry Pi projects)
-:globe_with_meridians: * HTML, CSS and Javascript (web dev)
-🔐* Basics of SQL, C++ and Java
-:chart_with_upwards_trend: * MATLAB for numerical and signal analysis
+* 🤖 Python (with frameworks/ libraries: Pandas, Scikit, Dash, Scipy, OpenCV and Tkinter)
+* :electron: Embedded C (Arduino and Raspberry Pi projects)
+* :globe_with_meridians: HTML, CSS and Javascript (web dev)
+* 🔐Basics of SQL, C++ and Java
+* :chart_with_upwards_trend: MATLAB for numerical and signal analysis
 
 I also feel comfortable with different OS environments and distros like:
 * Linux (Kali, Ubuntu, Raspbian)
