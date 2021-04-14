@@ -7,16 +7,19 @@ I'm about to finish school and also taking courses about programming on differen
 * 🔐Basics of SQL, C++ and Java
 * :chart_with_upwards_trend: MATLAB for numerical and signal analysis
 
-I also feel comfortable with different OS environments and distros like:
-* Linux (Kali, Ubuntu, Raspbian)
-* MacOS
-* Windows
+🔭 I’m currently working on my future interests, which are:
+* _AI and Machine Learning
+* _Data science
+* _Robotics and augmented reality
+* _Design
+
+You can also find me in [LinkedIn]
+I rarely make random tech videos for my [YT channel](https://www.youtube.com/channel/UCtYj0Ynyf3R3MOAxOC6Mzxg)
 
 One last thing, just because they're always useful for memes and stuff, I can use:
 * Adobe Photoshop
 * Adobe Illustrator.
 
-I rarely make random tech videos for my [YT channel](https://www.youtube.com/channel/UCtYj0Ynyf3R3MOAxOC6Mzxg)
 
 <!--
 **areg-pi/areg-pi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
