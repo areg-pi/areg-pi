@@ -12,9 +12,11 @@ I also feel comfortable with different OS environments and distros like:
 * MacOS
 * Windows
 
-And, just because they're always useful for memes and stuff, I can use Photoshop and Illustrator.
+And, just because they're always useful for memes and stuff, I can use:
+* Adobe Photoshop
+* Adobe Illustrator.
 
-I rarely make random tech videos for my [YT channel](https://www.youtube.com/channel/UCtYj0Ynyf3R3MOAxOC6Mzxg)
+I rarely make random tech videos for my (https://www.youtube.com/channel/UCtYj0Ynyf3R3MOAxOC6Mzxg)
 
 <!--
 **areg-pi/areg-pi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
