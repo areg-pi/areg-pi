@@ -8,10 +8,10 @@ I'm about to finish school and also taking courses about programming on differen
 * :chart_with_upwards_trend: MATLAB for numerical and signal analysis
 
 🔭 I’m currently working on my future interests, which are:
-* _AI and Machine Learning
-* _Data science
-* _Robotics and augmented reality
-* _Design
+* _AI and Machine Learning_
+* _Data science_
+* _Robotics and augmented reality_
+* _Design_
 
 You can also find me in [LinkedIn]
 I rarely make random tech videos for my [YT channel](https://www.youtube.com/channel/UCtYj0Ynyf3R3MOAxOC6Mzxg)
