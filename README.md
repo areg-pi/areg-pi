@@ -1,4 +1,4 @@
-# Hi there, I'm about to be a _*Mechatronics Engineer*_ :jack_o_lantern:
+# Hi there, I'm about to be a _**Mechatronics Engineer**_ :jack_o_lantern:
 
 I'm about to finish school and also taking courses about programming on different websites. I've used several languages such as:
 * 🤖 Python (with frameworks/ libraries: Pandas, Scikit, Dash, Scipy, OpenCV and Tkinter)
