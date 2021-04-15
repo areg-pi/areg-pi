@@ -9,10 +9,10 @@ I'm about to finish school and also taking courses about programming on differen
 
 ## 🔭 Interests
 I’m currently working on my future interests, which are:
-* _AI and Machine Learning_
-* _Data science_
-* _Robotics and augmented reality_
-* _Design_
+* AI and Machine Learning
+* Data science
+* Robotics and augmented reality
+* Design
 
 ## :globe_with_meridians: You can also find me in:
 
