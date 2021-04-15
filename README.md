@@ -16,7 +16,7 @@ I'm about to finish school and also taking courses about programming on differen
 
 You can also find me in:
 
-[<img widyh = "12" height = "12" src="lin.png">](https://www.linkedin.com/in/gerardo-navalles-aa2599203/)
+[<img widyh = "25" height = "25" src="lin.png">](https://www.linkedin.com/in/gerardo-navalles-aa2599203/)
 
 
 I rarely make random tech videos for my [YT channel](https://www.youtube.com/channel/UCtYj0Ynyf3R3MOAxOC6Mzxg)
