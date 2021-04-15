@@ -16,9 +16,9 @@ I'm about to finish school and also taking courses about programming on differen
 
 You can also find me in
 
-[<img src="C:\Users\gerar\OneDrive\Documentos\CV\lin.png">](http://google.com.au/)
+![hi](C:\Users\gerar\OneDrive\Documentos\CV\lin.png)
 
-![<img align=”left” alt=”gera-linkedin” width=”22px” src="C:\Users\gerar\OneDrive\Documentos\CV" />][linkedin]
+
 [linkedin]: https://www.linkedin.com/in/gerardo-navalles-aa2599203/
 
 I rarely make random tech videos for my [YT channel](https://www.youtube.com/channel/UCtYj0Ynyf3R3MOAxOC6Mzxg)
