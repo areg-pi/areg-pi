@@ -7,14 +7,14 @@ I'm about to finish school and also taking courses about programming on differen
 * 🔐Basics of SQL, C++ and Java
 * :chart_with_upwards_trend: MATLAB for numerical and signal analysis
 
-## Interests
-🔭 I’m currently working on my future interests, which are:
+## 🔭 Interests
+I’m currently working on my future interests, which are:
 * _AI and Machine Learning_
 * _Data science_
 * _Robotics and augmented reality_
 * _Design_
 
-## You can also find me in:
+## :globe_with_meridians: You can also find me in:
 
 [<img widyh = "70" height = "70" align="middle" src="linked.png">](https://www.linkedin.com/in/gerardo-navalles-aa2599203/)
 &nbsp;&nbsp;&nbsp;&nbsp;
