@@ -14,9 +14,11 @@ I'm about to finish school and also taking courses about programming on differen
 * _Robotics and augmented reality_
 * _Design_
 
-You can also find me in:
+## You can also find me in:
 
-[<img widyh = "70" height = "70" src="linked.png">](https://www.linkedin.com/in/gerardo-navalles-aa2599203/)
+[<img widyh = "70" height = "70" src="linked.png">]([linkedin])
+
+[linkedin] : https://www.linkedin.com/in/gerardo-navalles-aa2599203/
 
 
 I rarely make random tech videos for my [YT channel](https://www.youtube.com/channel/UCtYj0Ynyf3R3MOAxOC6Mzxg)
