@@ -16,7 +16,7 @@ I'm about to finish school and also taking courses about programming on differen
 
 You can also find me in
 
-![hi]()
+![hi](lin.png)
 
 
 [linkedin]: https://www.linkedin.com/in/gerardo-navalles-aa2599203/
