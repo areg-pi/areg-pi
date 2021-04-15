@@ -23,7 +23,7 @@ I’m currently working on my future interests, which are:
 
 I rarely make random tech videos for my YT channel.
 
-One last thing, just because they're always useful for memes and stuff, I can use:
+One last thing. Just because they're always useful for memes and stuff, I can use:
 * Adobe Photoshop
 * Adobe Illustrator.
 
