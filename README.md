@@ -16,7 +16,7 @@ I'm about to finish school and also taking courses about programming on differen
 
 You can also find me in
 
-<a href="https://www.linkedin.com/in/gerardo-navalles-aa2599203/" rel="linkedin">![li](C:\Users\gerar\OneDrive\Documentos\CV\lin.png)</a>
+[<img src="C:\Users\gerar\OneDrive\Documentos\CV\lin.png">](http://google.com.au/)
 
 ![<img align=”left” alt=”gera-linkedin” width=”22px” src="C:\Users\gerar\OneDrive\Documentos\CV" />][linkedin]
 [linkedin]: https://www.linkedin.com/in/gerardo-navalles-aa2599203/
