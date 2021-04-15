@@ -20,8 +20,8 @@ I’m currently working on my future interests, which are:
 &nbsp;&nbsp;&nbsp;&nbsp;
 [<img widyh = "35" height = "35" align="middle" src="you.png">](https://www.youtube.com/channel/UCtYj0Ynyf3R3MOAxOC6Mzxg)
 
-
 I rarely make random tech videos for my YT channel.
+My email: gerardonc_14@hotmail.com
 
 One last thing. Just because they're always useful for memes and stuff, I can use:
 * Adobe Photoshop
