@@ -18,6 +18,7 @@ You can also find me in
 
 ![hi](lin.png)
 
+[<img src="lin.png">](http://google.com.au/)
 
 [linkedin]: https://www.linkedin.com/in/gerardo-navalles-aa2599203/
 
