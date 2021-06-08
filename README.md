@@ -1,4 +1,4 @@
-# Hello there, I'm a _Mechatronics Engineer_ :jack_o_lantern:
+# Hello there :jack_o_lantern:
 
 I just finished university and also taking courses about computer science in different websites. I've used several languages such as:
 * 🤖 Python (with frameworks/ libraries: Pandas, Scikit, Dash, Scipy, OpenCV and Tkinter)
