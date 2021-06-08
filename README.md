@@ -1,6 +1,6 @@
-# Hi there, I'm a _Mechatronics Engineer_ :jack_o_lantern:
+# Hello there, I'm a _Mechatronics Engineer_ :jack_o_lantern:
 
-I'm about to finish university and also taking courses about programming on different websites. I've used several languages such as:
+I just finished university and also taking courses about computer science in different websites. I've used several languages such as:
 * 🤖 Python (with frameworks/ libraries: Pandas, Scikit, Dash, Scipy, OpenCV and Tkinter)
 * :electron: Embedded C (Arduino and Raspberry Pi projects)
 * :globe_with_meridians: HTML, CSS and Javascript (web dev)
