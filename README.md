@@ -23,8 +23,8 @@ I’m currently working on some of my future interests, which are:
 📧 My email: gerardonc_14@hotmail.com
 
 One last thing. Just because they're always useful for memes and stuff, I can use:
-* Adobe Photoshop
-* Adobe Illustrator.
+* Adobe Photoshop :camera:
+* Adobe Illustrator :space_invader:
 
 
 <!--
