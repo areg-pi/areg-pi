@@ -10,9 +10,10 @@ I just finished university and I'm working as QA Engineer. I'm also taking compu
 ## 🔭 Interests
 I’m currently working on some of my future interests, but in general, I like:
 * AI, Machine Learning, Robotics and AR
+* Design in general
 * Teaching
 * To play the piano
-* Design in general
+* Martial arts
 
 ## :globe_with_meridians: You can also find me in:
 
