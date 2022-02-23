@@ -1,19 +1,18 @@
 # Hello there :jack_o_lantern:
 
-I just finished university and I'm working as QA Engineer. I'm also taking computer science courses. I've used several tools such as:
+I recently finished university and I'm working as QA Engineer. I'm also taking computer science courses (usually). I've used several tools such as:
 * 🤖 Python (with frameworks/libraries: Pandas, Scikit, Dash, Scipy, OpenCV and Tkinter)
 * :electron: Embedded C (Arduino and Raspberry Pi projects)
 * :globe_with_meridians: HTML, CSS and Javascript (web dev)
 * 🔐Basics of SQL, C++ and Java
-* :chart_with_upwards_trend: MATLAB for numerical and signal analysis (but ages without using it)
+* :chart_with_upwards_trend: MATLAB for numerical and signal analysis (long time ago)
 
 ## 🔭 Interests
 I’m currently working on some of my future interests, but in general, I like:
 * AI, Machine Learning, Robotics and AR
 * Design in general
-* Teaching
+* Sport Karate
 * To play the piano
-* Martial arts
 
 ## :globe_with_meridians: You can also find me in:
 
