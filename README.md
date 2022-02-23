@@ -14,17 +14,17 @@ I’m currently working on some of my future interests, but in general, I like:
 * Sport Karate
 * To play the piano
 
+Also, just because they're always useful for memes and stuff, I use too:
+* Adobe Photoshop :camera:
+* Adobe Illustrator :space_invader:
+
 ## :globe_with_meridians: You can also find me in:
 
 [<img widyh = "70" height = "70" align="middle" src="linked.png">](https://www.linkedin.com/in/gerardo-navalles-aa2599203/)
 &nbsp;&nbsp;&nbsp;&nbsp;
 [<img widyh = "35" height = "35" align="middle" src="you.png">](https://www.youtube.com/channel/UCtYj0Ynyf3R3MOAxOC6Mzxg)
 
-📧 My email: gerardonc_14@hotmail.com
-
-One last thing. Just because they're always useful for memes and stuff, I can use:
-* Adobe Photoshop :camera:
-* Adobe Illustrator :space_invader:
+📧 gerardonc_14@hotmail.com
 
 
 <!--
